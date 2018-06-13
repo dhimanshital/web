@@ -1,0 +1,11 @@
+Offline commands:
+1) git init
+2) a) git config --global user.name "username" 
+    b) git config --global user.email "user_email"
+3) git status
+4) git add filename
+5) git commit -m "message"
+
+online commands:
+1) git remote add origin "https://github.com/dhimanshital/web.git"
+2) git push -u origin master
