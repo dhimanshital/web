@@ -9,3 +9,5 @@ Offline commands:
 online commands:
 1) git remote add origin "https://github.com/dhimanshital/web.git"
 2) git push -u origin master
+
+NOTE: you can use <git add .> command to add all the files at one go to the git repository.
